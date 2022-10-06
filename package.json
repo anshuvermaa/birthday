@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshuvermaa/birthday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "anshu verma",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/anshuvermaa/birthday/issues"
+  },
+  "homepage": "https://github.com/anshuvermaa/birthday#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
